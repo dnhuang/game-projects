@@ -1,0 +1,83 @@
+name, substats
+Adin,Atk%|Crit Damage%|Crit Rate%|Speed
+Adlay,Atk%|Crit Rate%|Crit Damage%|Speed
+Adventurer Ras,Hp%|Speed|Def%|Effectiveness%
+Ainos,Speed|Hp%
+Alencia,Hp%|Crit Rate%|Crit Damage%|Speed|Effectiveness%
+Alexa,Crit Rate%|Atk%|Speed|Crit Damage%|Effectiveness%
+Angelica,Hp%|Def%|Speed|Effect Resistance%
+Arbiter Vildred,Atk%|Crit Rate%|Crit Damage%|Speed
+Baal and Sezan,Effectiveness%|Speed|Atk%|Crit Rate%|Crit Damage%
+Baiken,Crit Rate%|Speed|Atk%|Effectiveness%|Crit Damage%
+Basar,Speed|Effectiveness%|Def%|Hp%
+Bask,Hp%|Def%|Speed
+Bellona,Atk%|Speed|Effectiveness%|Crit Rate%|Crit Damage%
+Blood Blade Karin,Atk%|Crit Rate%|Crit Damage%|Speed
+Butcher Corps Inquisitor,Speed|Atk%|Crit Rate%|Crit Damage%
+Celine,Atk%|Crit Rate%|Crit Damage%|Speed
+Cermia,Atk%|Crit Damage%|Crit Rate%|Speed
+Champion Zerato,Effectiveness%|Atk%|Hp%|Crit Rate%|Crit Damage%
+Chaos Inquisitor,Speed|Atk%|Crit Rate%|Crit Damage%
+Charlotte,Atk%|Crit Damage%|Hp%|Def%|Speed
+Choux,Hp%|Crit Rate%|Crit Damage%|Speed|Def%
+Cidd,Speed|Atk%|Crit Rate%|Crit Damage%
+Clarissa,Speed|Atk%|Effectiveness%|Crit Rate%|Crit Damage%
+Dark Corvus,Hp%|Effect Resistance%|Speed
+Desert Jewel Basar,Speed|Hp%|Effect Resistance%|Def%
+Destina,Hp%|Speed|Effect Resistance%|Def%
+Doll Maker Pearlhorizon,Speed|Effectiveness%|Hp%|Def%
+Eaton,Hp%|Def%|Effect Resistance%|Speed
+Elena,Hp%|Speed|Effect Resistance%|Def%
+Eligos,Atk%|Speed|Crit Damage%|Crit Rate%
+Fairytale Tenebria,Effectiveness%|Speed|Hp%|Def%|Effect Resistance%
+Falconer Kluri,Effectiveness%|Hp%|Speed|Def%
+Fallen Cecilia,Hp%|Def%|Speed
+Flan,Speed|Effectiveness%|Hp%|Def%
+Furious,Speed|Effectiveness%|Hp%
+General Purrgis,Hp%|Def%|Speed|Effect Resistance%
+Ian,Speed|Atk%|Crit Rate%|Crit Damage%
+Ilynav,Hp%|Speed|Crit Damage%|Crit Rate%|Def%
+Jena,Effectiveness%|Atk%|Speed
+Karin,Crit Damage%|Crit Rate%|Speed|Atk%
+Landy,Atk%|Crit Damage%|Crit Rate%|Speed
+Lilias,Hp%|Def%|Speed|Effectiveness%
+Lionheart Cermia,Def%|Crit Rate%|Crit Damage%|Speed
+Little Queen Charlotte,Atk%|Crit Rate%|Crit Damage%
+Lone Crescent Bellona,Crit Damage%|Speed|Flat Atk|Hp%|Def%
+Lua,Effectiveness%|Speed|Hp%|Def%
+Ludwig,Atk%|Crit Rate%|Crit Damage%
+Luluca,Effectiveness%|Def%|Hp%|Crit Rate%|Crit Damage%
+Martial Artist Ken,Crit Damage%|Hp%|Effect Resistance%|Speed|Crit Rate%
+Mediator Kawerik,Speed|Def%|Hp%|Crit Rate%|Crit Damage%
+Melany,Atk%|Crit Damage%|Speed
+Mercedes,Atk%|Crit Rate%|Crit Damage%|Speed
+Mistychain,Atk%|Crit Rate%|Speed|Hp%|Effectiveness%
+Muse Rima,Speed|Hp%|Effectiveness%|Crit Rate%
+Muwi,Speed|Atk%|Effectiveness%|Crit Rate%|Crit Damage%
+Operator Sigret,Speed|Crit Rate%|Crit Damage%|Atk%
+Politis,Speed|Hp%|Def%|Effectiveness%
+Ran,Speed|Atk%|Crit Damage%|Crit Rate%
+Ras,Hp%|Def%|Speed
+Ray,Hp%|Speed|Effect Resistance%
+Roana,Hp%|Speed|Def%
+Seaside Bellona,Crit Damage%|Atk%|Speed|Hp%|Effectiveness%
+Serila,Atk%|Effectiveness%|Speed
+Shadow Knight Pyllis,Hp%|Def%|Speed|Effect Resistance%|Effectiveness%
+Silver Blade Aramintha,Effectiveness%|Atk%|Hp%|Speed
+Sinful Angelica,Speed|Hp%
+Specimen Sez,Effectiveness%|Speed|Atk%|Crit Rate%|Crit Damage%
+Specter Tenebria,Crit Damage%|Crit Rate%|Atk%|Effectiveness%|Speed
+Spirit Eye Celine,Atk%|Speed|Crit Rate%|Crit Damage%
+Summertime Iseria,Atk%|Effectiveness%|Speed|Hp%|Def%
+Taeyou,Speed|Atk%|Crit Rate%|Crit Damage%
+Tempest Surin,Atk%|Crit Damage%|Crit Rate%|Speed
+Troublemaker Crozet,Hp%|Effect Resistance%|Def%|Speed
+Unbound Knight Arowell,Hp%|Def%|Speed|Effectiveness%
+Vigilante Leader Glenn,Atk%|Crit Damage%|Speed|Crit Rate%
+Vildred,Atk%|Crit Rate%|Crit Damage%|Speed
+Violet,Atk%|Hp%|Crit Rate%|Effectiveness%
+Vivian,Crit Rate%|Crit Damage%|Atk%|Speed|Hp%
+Watcher Schuri,Crit Rate%|Crit Damage%|Atk%|Speed
+Yufine,Atk%|Crit Rate%|Crit Damage%|Effectiveness%
+Yulha,Hp%|Speed|Def%|Effectiveness%
+Zealot Carmainerose,Speed|Crit Rate%|Atk%|Crit Damage%|Hp%

@@ -1,6 +1,6 @@
 # e7-substat-unit-matcher
 
-Project started on 4/18/2023.
+Project started on 4/17/2023.
 
 [Epic Seven (E7)](https://epic7.smilegatemegaport.com/) is a mobile gacha game that I've been playing on and off for a while, and as of 4/18/2023, it's been roughly *three years*.
 
@@ -13,6 +13,6 @@ I've decided to use [Epic7x](https://epic7x.com/), a database maintained by a th
 For the start of this project, I just want to first figure out how to scrape the data first. But my vision for this project is to eventually turn this into a tool where I can select a *set of substats* and return a set of character(s) that can use these stats. The benefits are twofold; it would helper determine if a gear is worth upgrading AND catch those *odd* or *rare* substat combinations that are used by very nice characters. Maybe one day when I actually put in the effort to learn web development I can create an interactable UI, allowing me to just *click* on things. But until then, I will be working with a spread sheet and the trusty `ctrl` - `f`.
 
 
-**UPDATE:**
+**UPDATE (4/18/2023):**
 
 Unfortunately encountered a very interesting blocker while scraping data. My intuition that there's some weird anti-scraping mechanism in place for the site was partially correct. See `scraper.ipynb` for a more detailed explanation. But for now, project has been put on pause. Regardless, it was still fun.

@@ -112,7 +112,7 @@ def randomize_coordinate(coord):
     
 
 ### BEGIN OPERATION
-while (True):
+while True:
     try:
         def scan_and_buy():
             num_bought = 0
@@ -140,7 +140,8 @@ while (True):
         print("shop exhausted, waiting to refresh")
         refresh()
         time.sleep(1.5) # NEEDED otherwise will miss
+    except KeyboardInterrupt:
+        break
     except:
-        ### really bad code, can't keyboard interrupt ###
         pass
     

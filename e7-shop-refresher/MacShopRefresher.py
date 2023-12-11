@@ -102,7 +102,6 @@ while True:
             drag_down()
             results = scan_and_buy(cov_bought, mystic_bought)
         
-        print("shop exhausted, waiting to refresh")
         cov_bought = False
         mystic_bought = False
         refresh()

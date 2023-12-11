@@ -8,6 +8,9 @@ import random
 # returns its offset coordinates. If neither covenants or mystics are found, an integer
 # of 0 is returned.
 
+### REASON WHY COORDS NEED TO BE DIVIDED BY 2:
+### https://stackoverflow.com/questions/43606520/pyautogui-locate-command-returning-incorrect-coordinates-for-image-recognition
+
 def scan(item):
     def get_buy_coord(item):
         try:
